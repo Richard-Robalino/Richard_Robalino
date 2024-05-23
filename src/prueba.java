@@ -4,7 +4,6 @@ public class prueba {
         Local juegoLocal = new Local("LOL", "Acicion", 2024);
         Online online1=new Online("TFT", "Magia",2050,"Nuevo");
         juegos1.imprimir();
-        juegoLocal.imprimir();
-        online1.imprimir();
+
     }
 }
